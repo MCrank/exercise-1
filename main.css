@@ -1,5 +1,5 @@
 .title {
-  background-color: tomato;
+  background-color: lightgray;
   text-align: center;
 }
 .container {
@@ -16,6 +16,7 @@
   margin: 1%;
   /* padding: 1%; */
   border: 1px solid lightblue;
+  box-shadow: 10px 10px 5px #888888;
 }
 
 .header-product-card {
@@ -41,6 +42,8 @@ img {
 
 .product-description {
   margin: 0 10px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 .product-availability {
   background-color: grey;
@@ -62,8 +65,10 @@ ul {
   padding-left: 20px;
   list-style: none;
   font-weight: bold;
+  font-size: 14px;
 }
 
 .specs-product-card footer {
   font-size: 12px;
+  margin-bottom: 5px;
 }
