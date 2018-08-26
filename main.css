@@ -39,10 +39,20 @@ h1 {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  position: relative;
 }
 img {
   max-width: 100%;
 }
+
+.img-sold-out {
+  position: absolute;
+  left: 2%;
+  top: 15%;
+  width: 100%;
+  opacity: 0.45;
+}
+
 .desc-img {
   display: flex;
   align-self: center;
