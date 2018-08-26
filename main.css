@@ -3,7 +3,6 @@
   text-align: center;
 }
 .container {
-  border: 1px solid green;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
