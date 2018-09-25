@@ -32,7 +32,7 @@ We were tasked to build a grid of cards for company's products with the followin
 
 ## Screenshots
 
-![main screenshot](./screenshots/product-cards.PNG)
+![main screenshot](./img/product-cards.PNG)
 
 ## How to run this project
 
